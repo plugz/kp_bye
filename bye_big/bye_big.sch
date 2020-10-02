@@ -409,4 +409,8 @@ Wire Wire Line
 Connection ~ 2950 5400
 Wire Wire Line
 	2950 5400 3350 5400
+Text GLabel 4050 3500 2    50   Input ~ 0
+gnd
+Wire Wire Line
+	4050 3400 4050 3500
 $EndSCHEMATC
